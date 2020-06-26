@@ -4,9 +4,10 @@ This is a take-home interview for a software engineering position at <b>engine<s
 
 ## Interview Steps
 
-1. Take a look at the data folder, which includes the csv and json format of the [New York City 2010 SAT exam results](https://catalog.data.gov/dataset/sat-college-board-2010-school-level-results-5c6d6).
-2. Using either Python or JavaScript, create a script to ingest your preferred format of this data and answer the questions in Data Insights.
-3. When you are ready to submit, please create a branch with your name, push it to the repo, and create a pull request.
+1. Clone this repo
+2. Take a look at the data folder, which includes the csv and json format of the [New York City 2010 SAT exam results](https://catalog.data.gov/dataset/sat-college-board-2010-school-level-results-5c6d6).
+3. Using either Python or JavaScript, create a script to ingest your preferred format of this data and answer the questions in Data Insights.
+4. When you are ready to submit, please create a branch with your name, push it to the repo, and create a pull request.
 
 ## Data Insights
 
