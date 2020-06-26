@@ -9,14 +9,17 @@ This is a take-home interview for a software engineering position at <b>engine<s
 3. Using either Python or JavaScript, create a script to ingest your preferred format of this data and answer the questions in Data Insights.
 4. When you are ready to submit, please create a branch with your name, push it to the repo, and create a pull request.
 
-## Data Insights
+## Data Insights - 1 hour
 
 1. How many schools are tracked in this database?
 2. How many schools have no associated testing information?
 3. Which schools have the best overall scores?
 4. Which schools have the most divergent scores between mathematics and critical reading?
-5. Chart a histogram of number of test takers per school
-6. Looking at the data, think of 1 interesting question and answer it.
+5. Looking at the data, think of 1 interesting question and answer it.
+
+## Bonus - 1 hour
+
+Create a cool visualization examining some aspect of the data that is interesting to you.
 
 ## Notes
 
